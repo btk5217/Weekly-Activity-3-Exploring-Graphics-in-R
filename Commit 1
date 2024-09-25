@@ -1,0 +1,7 @@
+echo "# Weekly-Activity-3-Exploring-Graphics-in-R" >> README.md
+git init
+git add README.md
+git commit -m "I started the project by making sure that all of the required packages were installed."
+git branch -M main
+git remote add origin https://github.com/btk5217/Weekly-Activity-3-Exploring-Graphics-in-R.git
+git push -u origin main
